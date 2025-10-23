@@ -36,10 +36,10 @@ export default {
   data() {
     return {
       posts: [
-        {id: 1, title: 'Slay', body: 'Slay me queen 🥺😑🥰'},
-        {id: 2, title: 'Yass', body: 'I com 🥰'},
-        {id: 3, title: 'Ass', body: 'Ew, stinks'},
-        {id: 4, title: 'Jiafei', body: 'Queen, yay'},
+        {id: 1, title: 'Say', body: '🥺😑🥰'},
+        {id: 2, title: 'Yas', body: 'I c 🥰'},
+        {id: 3, title: 'As', body: 'Ew'},
+        {id: 4, title: 'J', body: 'Queen'},
       ],
       displayVisible: false,
       modificatorValue: ''
@@ -72,3 +72,4 @@ export default {
   padding: 20px;
 }
 </style>
+
